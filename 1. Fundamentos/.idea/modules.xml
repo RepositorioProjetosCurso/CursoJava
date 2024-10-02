@@ -13,9 +13,11 @@
       <module fileurl="file://$PROJECT_DIR$/ExemploFloatDouble/ExemploFloatDouble.iml" filepath="$PROJECT_DIR$/ExemploFloatDouble/ExemploFloatDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploInt/ExemploInt.iml" filepath="$PROJECT_DIR$/ExemploInt/ExemploInt.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploLong/ExemploLong.iml" filepath="$PROJECT_DIR$/ExemploLong/ExemploLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploString/ExemploString.iml" filepath="$PROJECT_DIR$/ExemploString/ExemploString.iml" />
       <module fileurl="file://$PROJECT_DIR$/IncrementoDecremento/IncrementoDecremento.iml" filepath="$PROJECT_DIR$/IncrementoDecremento/IncrementoDecremento.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PromocaoAritimetica1/PromocaoAritimetica1.iml" filepath="$PROJECT_DIR$/PromocaoAritimetica1/PromocaoAritimetica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequenciasEscape/SequenciasEscape.iml" filepath="$PROJECT_DIR$/SequenciasEscape/SequenciasEscape.iml" />
     </modules>
   </component>
 </project>
