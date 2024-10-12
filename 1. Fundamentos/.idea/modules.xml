@@ -3,10 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Fundamentos.iml" filepath="$PROJECT_DIR$/1. Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/2. Estruturas de Controle.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/2. Estruturas de Controle.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbreviacaoOperadores/AbreviacaoOperadores.iml" filepath="$PROJECT_DIR$/AbreviacaoOperadores/AbreviacaoOperadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/AulaVariaveis/AulaVariaveis.iml" filepath="$PROJECT_DIR$/AulaVariaveis/AulaVariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/CaixaLoja/CaixaLoja.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/CaixaLoja/CaixaLoja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/CalculaIMC/CalculaIMC.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/CalculaIMC/CalculaIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/CalculaIMC2/CalculaIMC2.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/CalculaIMC2/CalculaIMC2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculadoraMediaIdade/CalculadoraMediaIdade.iml" filepath="$PROJECT_DIR$/CalculadoraMediaIdade/CalculadoraMediaIdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConversaoLongParaInt/ConversaoLongParaInt.iml" filepath="$PROJECT_DIR$/ConversaoLongParaInt/ConversaoLongParaInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EntradaDeDados/EntradaDeDados.iml" filepath="$PROJECT_DIR$/EntradaDeDados/EntradaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/ExameCortisol/ExameCortisol.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/ExameCortisol/ExameCortisol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/ExameVitaminaD/ExameVitaminaD.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/ExameVitaminaD/ExameVitaminaD.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploBoolean/ExemploBoolean.iml" filepath="$PROJECT_DIR$/ExemploBoolean/ExemploBoolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploByteShort/ExemploByteShort.iml" filepath="$PROJECT_DIR$/ExemploByteShort/ExemploByteShort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploChar/ExemploChar.iml" filepath="$PROJECT_DIR$/ExemploChar/ExemploChar.iml" />
@@ -14,8 +23,13 @@
       <module fileurl="file://$PROJECT_DIR$/ExemploInt/ExemploInt.iml" filepath="$PROJECT_DIR$/ExemploInt/ExemploInt.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploLong/ExemploLong.iml" filepath="$PROJECT_DIR$/ExemploLong/ExemploLong.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploString/ExemploString.iml" filepath="$PROJECT_DIR$/ExemploString/ExemploString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormatandoComPrintF/FormatandoComPrintF.iml" filepath="$PROJECT_DIR$/FormatandoComPrintF/FormatandoComPrintF.iml" />
       <module fileurl="file://$PROJECT_DIR$/IncrementoDecremento/IncrementoDecremento.iml" filepath="$PROJECT_DIR$/IncrementoDecremento/IncrementoDecremento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IndiceMassaCorporal/IndiceMassaCorporal.iml" filepath="$PROJECT_DIR$/IndiceMassaCorporal/IndiceMassaCorporal.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/OperadoresComparacao/OperadoresComparacao.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/OperadoresComparacao/OperadoresComparacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/OperadoresIgualdadeNegacao/OperadoresIgualdadeNegacao.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/OperadoresIgualdadeNegacao/OperadoresIgualdadeNegacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2. Estruturas de Controle/ProcedenciaOpLogicos/ProcedenciaOpLogicos.iml" filepath="$PROJECT_DIR$/../2. Estruturas de Controle/ProcedenciaOpLogicos/ProcedenciaOpLogicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PromocaoAritimetica1/PromocaoAritimetica1.iml" filepath="$PROJECT_DIR$/PromocaoAritimetica1/PromocaoAritimetica1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SequenciasEscape/SequenciasEscape.iml" filepath="$PROJECT_DIR$/SequenciasEscape/SequenciasEscape.iml" />
     </modules>
