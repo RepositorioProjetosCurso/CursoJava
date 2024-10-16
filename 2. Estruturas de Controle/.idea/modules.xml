@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2. Estruturas de Controle.iml" filepath="$PROJECT_DIR$/.idea/2. Estruturas de Controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" filepath="$PROJECT_DIR$/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaixaLoja/CaixaLoja.iml" filepath="$PROJECT_DIR$/CaixaLoja/CaixaLoja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculaIMC/CalculaIMC.iml" filepath="$PROJECT_DIR$/CalculaIMC/CalculaIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculaIMC2/CalculaIMC2.iml" filepath="$PROJECT_DIR$/CalculaIMC2/CalculaIMC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraDeImpostos/CalculadoraDeImpostos.iml" filepath="$PROJECT_DIR$/CalculadoraDeImpostos/CalculadoraDeImpostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlePesoAeronave/ControlePesoAeronave.iml" filepath="$PROJECT_DIR$/ControlePesoAeronave/ControlePesoAeronave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" filepath="$PROJECT_DIR$/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaRepeticaoFor/EstruturaRepeticaoFor.iml" filepath="$PROJECT_DIR$/EstruturaRepeticaoFor/EstruturaRepeticaoFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExameCortisol/ExameCortisol.iml" filepath="$PROJECT_DIR$/ExameCortisol/ExameCortisol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExameVitaminaD/ExameVitaminaD.iml" filepath="$PROJECT_DIR$/ExameVitaminaD/ExameVitaminaD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HorarioFuncionamento/HorarioFuncionamento.iml" filepath="$PROJECT_DIR$/HorarioFuncionamento/HorarioFuncionamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresComparacao/OperadoresComparacao.iml" filepath="$PROJECT_DIR$/OperadoresComparacao/OperadoresComparacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresIgualdadeNegacao/OperadoresIgualdadeNegacao.iml" filepath="$PROJECT_DIR$/OperadoresIgualdadeNegacao/OperadoresIgualdadeNegacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcedenciaOpLogicos/ProcedenciaOpLogicos.iml" filepath="$PROJECT_DIR$/ProcedenciaOpLogicos/ProcedenciaOpLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" filepath="$PROJECT_DIR$/SwitchExpressions/SwitchExpressions.iml" />
+    </modules>
+  </component>
+</project>
