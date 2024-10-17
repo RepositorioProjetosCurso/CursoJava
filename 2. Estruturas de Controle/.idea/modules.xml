@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2. Estruturas de Controle.iml" filepath="$PROJECT_DIR$/.idea/2. Estruturas de Controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApostaMegaSena/ApostaMegaSena.iml" filepath="$PROJECT_DIR$/ApostaMegaSena/ApostaMegaSena.iml" />
       <module fileurl="file://$PROJECT_DIR$/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" filepath="$PROJECT_DIR$/AvaliacaoAtendimento/AvaliacaoAtendimento.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaixaLoja/CaixaLoja.iml" filepath="$PROJECT_DIR$/CaixaLoja/CaixaLoja.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculaIMC/CalculaIMC.iml" filepath="$PROJECT_DIR$/CalculaIMC/CalculaIMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculaIMC2/CalculaIMC2.iml" filepath="$PROJECT_DIR$/CalculaIMC2/CalculaIMC2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculadoraDeImpostos/CalculadoraDeImpostos.iml" filepath="$PROJECT_DIR$/CalculadoraDeImpostos/CalculadoraDeImpostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlaPesoAeronave2/ControlaPesoAeronave2.iml" filepath="$PROJECT_DIR$/ControlaPesoAeronave2/ControlaPesoAeronave2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlePesoAeronave/ControlePesoAeronave.iml" filepath="$PROJECT_DIR$/ControlePesoAeronave/ControlePesoAeronave.iml" />
       <module fileurl="file://$PROJECT_DIR$/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" filepath="$PROJECT_DIR$/CurtoCircuitoOpLogicos/CurtoCircuitoOpLogicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/EstruturaRepeticaoFor/EstruturaRepeticaoFor.iml" filepath="$PROJECT_DIR$/EstruturaRepeticaoFor/EstruturaRepeticaoFor.iml" />
