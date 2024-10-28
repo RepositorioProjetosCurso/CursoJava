@@ -35,6 +35,9 @@ public class Principal {
 //      Proprietario do seu carro
         seuCarro.proprietario = voce;
 
+        double ipva = meuCarro.calculaIPVA();
+        System.out.println(ipva);
+
         meuCarro.imprimirResumoDepreciacao();
         seuCarro.imprimirResumoDepreciacao();
 

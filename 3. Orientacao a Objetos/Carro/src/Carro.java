@@ -12,12 +12,21 @@ public class Carro {
         double valorRevendaCarro = calcularValorRevenda();
         int tempoDeUsoDoCarro = calcularTempoDeUsoEmAnos();
 
-        System.out.printf("Tempo de uso em anos: %d%n", calcularTempoDeUsoEmAnos());
-        System.out.printf("Valor de revenda: %.2f%n", calcularValorRevenda());
+        if (precoCompra <= 0) {
+            System.out.println("Carro com preço zerado devido tempo de uso");
+            return;
+        } else  {
+            System.out.printf("Tempo de uso em anos: %d%n", calcularTempoDeUsoEmAnos());
+            System.out.printf("Valor de revenda: %.2f%n", calcularValorRevenda());
+        }
     }
 
     double calculaIPVA() {
-        return calcularValorRevenda() * 0.04;
+        double tempoDeUsoEmAnos = calcularValorRevenda();
+        if (tempoDeUsoEmAnos >= 10) {
+            return 0;
+        }
+        return tempoDeUsoEmAnos * 0.04;
     }
 
     int calcularTempoDeUsoEmAnos() {
