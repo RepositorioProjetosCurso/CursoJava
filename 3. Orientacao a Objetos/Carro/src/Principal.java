@@ -17,6 +17,7 @@ public class Principal {
         meuCarro.modelo = "X6";
         meuCarro.anoFabricacao = 2023;
         meuCarro.cor = "Preto";
+        meuCarro.precoCompra = 200_000;
 //      Proprietario do  meu carro
         meuCarro.proprietario = eu;
 
@@ -30,26 +31,30 @@ public class Principal {
         seuCarro.modelo = "Fastback";
         seuCarro.anoFabricacao = 2024;
         seuCarro.cor = "Azul";
+        seuCarro.precoCompra = 125_000;
 //      Proprietario do seu carro
         seuCarro.proprietario = voce;
+
+        meuCarro.imprimirResumoDepreciacao();
+        seuCarro.imprimirResumoDepreciacao();
 
 //      seuCarro.proprietario = new Pessoa();  // Para que exista um proprietario para seu carro, e ele não seja nulo
 //      seuCarro.proprietario.nome = "João Claudio";
 //      seuCarro.proprietario.cpf = "953.351.751-03";
 //      seuCarro.proprietario.anoNascimento = 1998;
 
-        System.out.println("Meu Carro");
-        System.out.println("---------");
-        System.out.printf("Modelo: %s%n", meuCarro.modelo);
-        System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
-        System.out.printf("Proprietario: %s%n", meuCarro.proprietario.nome);
-
-        System.out.println();
-
-        System.out.println("Seu Carro");
-        System.out.println("---------");
-        System.out.printf("Modelo: %s%n", seuCarro.modelo);
-        System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
-        System.out.printf("Proprietario: %s%n", seuCarro.proprietario.nome);
+//      System.out.println("Meu Carro");
+//      System.out.println("---------");
+//      System.out.printf("Modelo: %s%n", meuCarro.modelo);
+//      System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
+//      System.out.printf("Proprietario: %s%n", meuCarro.proprietario.nome);
+//
+//      System.out.println();
+//
+//      System.out.println("Seu Carro");
+//      System.out.println("---------");
+//      System.out.printf("Modelo: %s%n", seuCarro.modelo);
+//      System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
+//      System.out.printf("Proprietario: %s%n", seuCarro.proprietario.nome);
     }
 }
