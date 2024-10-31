@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/3. Orientacao a Objetos.iml" filepath="$PROJECT_DIR$/.idea/3. Orientacao a Objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" filepath="$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Carro/Carro.iml" filepath="$PROJECT_DIR$/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompanhiaAerea/CompanhiaAerea.iml" filepath="$PROJECT_DIR$/CompanhiaAerea/CompanhiaAerea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Precificacao/Precificacao.iml" filepath="$PROJECT_DIR$/Precificacao/Precificacao.iml" />
     </modules>
   </component>
 </project>
