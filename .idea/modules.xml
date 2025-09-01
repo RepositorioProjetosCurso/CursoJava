@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Heranca/AnotacaoOverride/AnotacaoOverride.iml" filepath="$PROJECT_DIR$/Heranca/AnotacaoOverride/AnotacaoOverride.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/ClassesEtiquetadas/ClassesEtiquetadas.iml" filepath="$PROJECT_DIR$/Heranca/ClassesEtiquetadas/ClassesEtiquetadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/ConstrutoresSuperESubclasse/ConstrutoresSuperESubclasse.iml" filepath="$PROJECT_DIR$/Heranca/ConstrutoresSuperESubclasse/ConstrutoresSuperESubclasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/CopiasDefensivas/CopiasDefensivas.iml" filepath="$PROJECT_DIR$/Encapsulamento/CopiasDefensivas/CopiasDefensivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Horario/Horario.iml" filepath="$PROJECT_DIR$/Encapsulamento/Horario/Horario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/ImplementandoHeranca/ImplementandoHeranca.iml" filepath="$PROJECT_DIR$/Heranca/ImplementandoHeranca/ImplementandoHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/InstanciarConstrutorPrivado/InstanciarConstrutorPrivado.iml" filepath="$PROJECT_DIR$/Encapsulamento/InstanciarConstrutorPrivado/InstanciarConstrutorPrivado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/InvocandoConstrutoresSuperclasse/InvocandoConstrutoresSuperclasse.iml" filepath="$PROJECT_DIR$/Heranca/InvocandoConstrutoresSuperclasse/InvocandoConstrutoresSuperclasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/IsolandoComportamentos/IsolandoComportamentos.iml" filepath="$PROJECT_DIR$/Heranca/IsolandoComportamentos/IsolandoComportamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Locacao/Locacao.iml" filepath="$PROJECT_DIR$/Encapsulamento/Locacao/Locacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/MiniminizeMutabilidade/MiniminizeMutabilidade.iml" filepath="$PROJECT_DIR$/Encapsulamento/MiniminizeMutabilidade/MiniminizeMutabilidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/ModificadorProtected/ModificadorProtected.iml" filepath="$PROJECT_DIR$/Heranca/ModificadorProtected/ModificadorProtected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/ProjetoHeranca/ProjetoHeranca.iml" filepath="$PROJECT_DIR$/Heranca/ProjetoHeranca/ProjetoHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Records/Records.iml" filepath="$PROJECT_DIR$/Encapsulamento/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/SobrescritaDeMetodos/SobrescritaDeMetodos.iml" filepath="$PROJECT_DIR$/Heranca/SobrescritaDeMetodos/SobrescritaDeMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/SuperclasseComSuper/SuperclasseComSuper.iml" filepath="$PROJECT_DIR$/Heranca/SuperclasseComSuper/SuperclasseComSuper.iml" />
+    </modules>
+  </component>
+</project>
