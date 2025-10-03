@@ -3,24 +3,48 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Heranca/AnotacaoOverride/AnotacaoOverride.iml" filepath="$PROJECT_DIR$/Heranca/AnotacaoOverride/AnotacaoOverride.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/BoasPraticasSobrescreverObjectEquals/BoasPraticasSobrescreverObjectEquals.iml" filepath="$PROJECT_DIR$/Heranca/BoasPraticasSobrescreverObjectEquals/BoasPraticasSobrescreverObjectEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ClassesAbstratas.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ClassesAbstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ClassesAbstratasAula/ClassesAbstratasAula.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ClassesAbstratasAula/ClassesAbstratasAula.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/ClassesEtiquetadas/ClassesEtiquetadas.iml" filepath="$PROJECT_DIR$/Heranca/ClassesEtiquetadas/ClassesEtiquetadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/ConstrutoresSuperESubclasse/ConstrutoresSuperESubclasse.iml" filepath="$PROJECT_DIR$/Heranca/ConstrutoresSuperESubclasse/ConstrutoresSuperESubclasse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/CopiasDefensivas/CopiasDefensivas.iml" filepath="$PROJECT_DIR$/Encapsulamento/CopiasDefensivas/CopiasDefensivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/DesafioHeranca/DesafioHeranca.iml" filepath="$PROJECT_DIR$/Heranca/DesafioHeranca/DesafioHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/DesafioPolimorfismo-Abstratas/DesafioPolimorfismo-Abstratas.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/DesafioPolimorfismo-Abstratas/DesafioPolimorfismo-Abstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/DowncastingReferencias/DowncastingReferencias.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/DowncastingReferencias/DowncastingReferencias.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/EntendendoPolimorfismo/EntendendoPolimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/EntendendoPolimorfismo/EntendendoPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/EvitandoInstanceof/EvitandoInstanceof.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/EvitandoInstanceof/EvitandoInstanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/FinalEmClassesEMetodos/FinalEmClassesEMetodos.iml" filepath="$PROJECT_DIR$/Heranca/FinalEmClassesEMetodos/FinalEmClassesEMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/HerancaViraProblema/HerancaViraProblema.iml" filepath="$PROJECT_DIR$/Interfaces/HerancaViraProblema/HerancaViraProblema.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Horario/Horario.iml" filepath="$PROJECT_DIR$/Encapsulamento/Horario/Horario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/ImplementandoHeranca/ImplementandoHeranca.iml" filepath="$PROJECT_DIR$/Heranca/ImplementandoHeranca/ImplementandoHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/ImplementandoPrimeiraInterface/ImplementandoPrimeiraInterface.iml" filepath="$PROJECT_DIR$/Interfaces/ImplementandoPrimeiraInterface/ImplementandoPrimeiraInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/InstanciarConstrutorPrivado/InstanciarConstrutorPrivado.iml" filepath="$PROJECT_DIR$/Encapsulamento/InstanciarConstrutorPrivado/InstanciarConstrutorPrivado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/InvocandoConstrutoresSuperclasse/InvocandoConstrutoresSuperclasse.iml" filepath="$PROJECT_DIR$/Heranca/InvocandoConstrutoresSuperclasse/InvocandoConstrutoresSuperclasse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/IsolandoComportamentos/IsolandoComportamentos.iml" filepath="$PROJECT_DIR$/Heranca/IsolandoComportamentos/IsolandoComportamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Locacao/Locacao.iml" filepath="$PROJECT_DIR$/Encapsulamento/Locacao/Locacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/MetodosAbstratos/MetodosAbstratos.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/MetodosAbstratos/MetodosAbstratos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/MiniminizeMutabilidade/MiniminizeMutabilidade.iml" filepath="$PROJECT_DIR$/Encapsulamento/MiniminizeMutabilidade/MiniminizeMutabilidade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/ModificadorProtected/ModificadorProtected.iml" filepath="$PROJECT_DIR$/Heranca/ModificadorProtected/ModificadorProtected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/NovaInterfaceInjecaoDeDependencias/NovaInterfaceInjecaoDeDependencias.iml" filepath="$PROJECT_DIR$/Interfaces/NovaInterfaceInjecaoDeDependencias/NovaInterfaceInjecaoDeDependencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/OperadorInstanceof/OperadorInstanceof.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/OperadorInstanceof/OperadorInstanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/PatternMatchingParaInstanceof/PatternMatchingParaInstanceof.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/PatternMatchingParaInstanceof/PatternMatchingParaInstanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/Polimorfismo-e-ClassesAbstratas.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/Polimorfismo-e-ClassesAbstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/PrimeiraInterface/PrimeiraInterface.iml" filepath="$PROJECT_DIR$/Interfaces/PrimeiraInterface/PrimeiraInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ProblemaPolimorfismoResolve/ProblemaPolimorfismoResolve.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ProblemaPolimorfismoResolve/ProblemaPolimorfismoResolve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ProjetoFaturamento/ProjetoFaturamento.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/ClassesAbstratas/ProjetoFaturamento/ProjetoFaturamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/ProjetoFinanceira/ProjetoFinanceira.iml" filepath="$PROJECT_DIR$/Interfaces/ProjetoFinanceira/ProjetoFinanceira.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/ProjetoHeranca/ProjetoHeranca.iml" filepath="$PROJECT_DIR$/Heranca/ProjetoHeranca/ProjetoHeranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Records/Records.iml" filepath="$PROJECT_DIR$/Encapsulamento/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/SobreescrevendoObjectEquals/SobreescrevendoObjectEquals.iml" filepath="$PROJECT_DIR$/Heranca/SobreescrevendoObjectEquals/SobreescrevendoObjectEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/SobrescrevaObject.toString/SobrescrevaObject.toString.iml" filepath="$PROJECT_DIR$/Heranca/SobrescrevaObject.toString/SobrescrevaObject.toString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/SobrescritaDeMetodos/SobrescritaDeMetodos.iml" filepath="$PROJECT_DIR$/Heranca/SobrescritaDeMetodos/SobrescritaDeMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/SuperclasseComSuper/SuperclasseComSuper.iml" filepath="$PROJECT_DIR$/Heranca/SuperclasseComSuper/SuperclasseComSuper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/Upcasting-Referencias/Upcasting-Referencias.iml" filepath="$PROJECT_DIR$/Polimorfismo-e-ClassesAbstratas/Upcasting-Referencias/Upcasting-Referencias.iml" />
     </modules>
   </component>
 </project>
