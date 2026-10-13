@@ -24,7 +24,7 @@ public class Fazenda extends EmpresaFinanciavel {
     @Override
     public double calcularLimiteAprovado() {
         double limiteAprovado = getTotalFaturamento() * PERCENTUAL_FATURAMENTO_LIMITE_CREDITO;
-        if(getTamanhoEHectares() >= TAMANHO_MINIMO_EM_HECTARES_GRANDE_PROPRIEDADE) {
+        if (getTamanhoEHectares() >= TAMANHO_MINIMO_EM_HECTARES_GRANDE_PROPRIEDADE) {
             limiteAprovado *= TAXA_ACRESCIMO_LIMITE_PARA_GRANDE_PROPRIEDADE;
         }
         return limiteAprovado;

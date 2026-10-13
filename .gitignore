@@ -1,0 +1,15 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compilado
+*.class
+
+# Diretórios de compilação
+out/
+target/
+build/
+
+# Logs
+*.log

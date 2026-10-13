@@ -1,6 +1,6 @@
 package com.algaworks.financeira.modelo;
 
-public class ParceiroFinanceiro extends EmpresaFinanciavel {
+public class ParceiroFinanceiro extends Empresa {
 
     private double valorTotalAplicado;
 
@@ -14,10 +14,5 @@ public class ParceiroFinanceiro extends EmpresaFinanciavel {
 
     public void adicionarNovaAplicacao(double valorAplicado) {
         valorTotalAplicado += valorAplicado;
-    }
-
-    @Override
-    public double calcularLimiteAprovado() {
-        return 0;
     }
 }
